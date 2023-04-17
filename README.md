@@ -11,3 +11,4 @@ sot endpoints.txt
 # Install
 ```
 go install github.com/abd-y/sot@latest
+```
