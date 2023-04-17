@@ -6,7 +6,7 @@ Usage: sot [file path]
 ```
 ### Example
 ```
-sot endpoints.txt
+sot -l endpoints.txt
 ```
 # Install
 ```
